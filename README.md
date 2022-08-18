@@ -4,7 +4,6 @@
 - 🏆 Amo esportes
 - 😻 E animais
 - 👨🏾 Sou um homem negro 
-##
 
 <div align="center">
   <a href="https://github.com/jonathanR95">
